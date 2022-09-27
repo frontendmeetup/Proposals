@@ -1,6 +1,6 @@
 ---
-name: Meetup talk proposal
-about: Submit a talk proposal for the Meetup
+name: Meetup talk topic
+about: Submit a talk proposal or just a talk idea for the Meetup
 title: ''
 labels: ''
 assignees: ''
